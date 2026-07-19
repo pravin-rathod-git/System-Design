@@ -375,19 +375,7 @@ Examples include:
 
 ---
 
-# 📂 Repository Structure
 
-```text
-Strategy-Pattern/
-│
-├── README.md
-│
-├── PaymentStrategyExample.java
-│
-└── RobotStrategyExample.java
-```
-
----
 
 # 🚀 Conclusion
 
