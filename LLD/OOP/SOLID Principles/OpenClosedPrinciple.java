@@ -5,6 +5,7 @@
  * Software entities (classes, modules, functions, etc.)
  * should be OPEN for extension but CLOSED for modification.
  *
+ 
  * This means:
  * 1. We should be able to add new functionality without
  *    modifying existing, tested code.
