@@ -22,6 +22,8 @@ Easier to test
 Easier to extend
 Flexible when implementations change
 
+for example :
+
 
                 MessageService
                /      |       \
