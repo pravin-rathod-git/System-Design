@@ -1,4 +1,28 @@
 /*
+
+Dependency Inversion Principle (DIP)
+
+The Dependency Inversion Principle (DIP) is the “D” in SOLID. It states that:
+
+High-level modules should not depend on low-level modules. Both should depend on abstractions.
+
+It also states that:
+
+Abstractions should not depend on details. Details should depend on abstractions.
+
+Key Idea
+
+Instead of a high-level class directly depending on a specific implementation, it should depend on an interface or abstraction.
+
+This makes the system:
+
+Loosely coupled
+Easier to maintain
+Easier to test
+Easier to extend
+Flexible when implementations change
+
+
                 MessageService
                /      |       \
               /       |        \
