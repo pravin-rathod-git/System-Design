@@ -1,5 +1,5 @@
 /*
- * Liskov Substitution Principle (Correct Example)
+ * Liskov Substitution Principle 
  */
 
 // Parent class
