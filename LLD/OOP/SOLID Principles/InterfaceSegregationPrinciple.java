@@ -1,4 +1,20 @@
 // Interface Segregation Principle (ISP)
+/*Interface Segregation Principle (ISP)
+
+The Interface Segregation Principle (ISP) is the “I” in SOLID. It states that:
+
+A class should not be forced to implement interfaces that it does not use.
+
+In simple terms, instead of creating one large interface containing many unrelated methods, we should create smaller, more specific interfaces that contain only the methods required by their implementing classes.
+
+Key Idea
+
+Interfaces should be:
+
+Small and focused
+Specific to a particular responsibility
+Easy for implementing classes to use
+Free from unnecessary methods*/
 // "Clients should not be forced to depend on interfaces they do not use."
 
 // Small interface for printing
